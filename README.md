@@ -1,4 +1,4 @@
-#### MEKANBUL REST API REQUESTS
+#### MEKANBUL REST API Sorguları
 
 [1. Mekanları listeledik.](https://odev5.seydaaydin.repl.co/api/mekanlar/637a6dc81e61e1c32fbf7292)
 
